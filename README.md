@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+- 👨🏻‍🎓 I'm studying at 42 Lausanne (thanks for the free Github Pro)
 - 🔭 I’m currently working on Vue, Django and Kubernetes
 - 🌱 I’m currently learning C++ and DevOps monitoring
 - 💬 Ask me about Web Development Best Practices
