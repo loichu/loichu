@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Vue, Django and Kubernetes
+- 🌱 I’m currently learning C++ and DevOps monitoring
+- 💬 Ask me about Web Development Best Practices
+- 📫 How to reach me: loic@humbert-web.dev
+- ⚡ Fun fact: I'm really into underground cultures
+
 <!--
 **loichu/loichu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
